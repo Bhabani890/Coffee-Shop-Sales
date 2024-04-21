@@ -1,4 +1,4 @@
-# Excel Project- Coffee-Shop-Sales
+# Coffee-Shop-Sales
 Introduction:
 This Excel project aims to analyze retail sales data to provide actionable insights for enhancing the performance of a Coffee Shop. By delving into sales patterns, we aim to identify peak times, total revenue per month, sales across different store locations, average price per order, and best-selling products.
 
